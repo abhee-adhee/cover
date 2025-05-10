@@ -177,10 +177,4 @@ h1 {
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
 
-```
 
-## OUTPUT:
-![alt text](Output.png)
-
-## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
